@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:nonroot
+FROM k8s.gcr.io/ingress-nginx/controller
